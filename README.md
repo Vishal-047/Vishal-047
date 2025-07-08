@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Vishal
-- 👀 I’m interested in the field of Cyber Security and new technical stuffs
-- Currently learning web development
-- 🌱 I’m currently learning about Networking
-- 📫 You may reach me via vishalrw007@gmail.com
+
 
 # 💫 About Me:
-👋 Hi, I’m Vishal<br>👀 I’m interested in the field of Cyber Security and new technical stuffs<br>Currently learning web development<br>🌱 I’m currently learning about Networking<br>📫 You may reach me via vishalrw007@gmail.com
+👋 Hi, I’m Vishal<br>👀 I’m interested in the field of Cyber Security and new technical stuffs<br>🌱 I’m currently learning about Networking and Web development<br>📫 You may reach me via vishalrw007@gmail.com
 
 
 ## 🌐 Socials:
