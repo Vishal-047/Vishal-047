@@ -163,11 +163,5 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Vishal-047&icon=0&color=13" />
-  </a>
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
