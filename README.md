@@ -22,6 +22,10 @@
   <a href="https://quora.com/profile/Vishal-Singh-16389">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" />
   </a>
+  
+  <a href="https://x.com/vishal_074">
+    <img src="https://img.shields.io/badge/-000000.svg?logo=X&logoColor=white" />
+  </a>
   <a href="mailto:vishalrw007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
