@@ -148,16 +148,26 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-047&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
+<!--START_SECTION:waka-->
+## 🧑🏻‍💻 Developers Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishal-047/wakatime-dashboard/main/stats.svg" />
+</p>
+## ⏳ Commits
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishal-047&utcOffset=5.5&theme=github_dark&v=4" width="480"/>
+</p>
+<!--END_SECTION:waka-->
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-047&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
+<p align="center">
+  <sub>
+    ⏱ X-axis: Hour of day (0–23) &nbsp;•&nbsp;
+    📊 Y-axis: Commit count &nbsp;•&nbsp;
+    🕒 Timezone: IST
+  </sub>
+</p>
 
 ## ✍️ Random Dev Quote
 
