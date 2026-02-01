@@ -29,6 +29,9 @@
   <a href="mailto:vishalrw007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/Vishal407/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ## 🚀 Tech Stack
@@ -66,21 +69,21 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /><br>Redux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /><br>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /><br>TailwindCSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" /><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" /><br>Flask</td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" /><br>Django</td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /><br>FastAPI</td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=flask&theme=dark" /><br>Flask</td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=npm&theme=dark" /><br>NPM</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /><br>NestJS</td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /><br>NestJS</td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /><br>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /><br>Vite</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" /><br>OpenCV</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>React Native</td>
+    <!-- <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" /><br>OpenCV</td> -->
+    <!-- <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>React Native</td> -->
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>React Router</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br>React Hook Form</td>
     <td align="center"><img src="https://appwrite.io/assets/logomark/logo.png" width="40" /><br>Appwrite</td>
-    <td align="center"><img src="https://e7.pngegg.com/pngimages/162/702/png-clipart-black-and-white-arrow-logo-socket-io-logo-icons-logos-emojis-tech-companies.png" width="40" /><br>Socket.IO</td>
+    <!-- <td align="center"><img src="https://e7.pngegg.com/pngimages/162/702/png-clipart-black-and-white-arrow-logo-socket-io-logo-icons-logos-emojis-tech-companies.png" width="40" /><br>Socket.IO</td> -->
   </tr>
 </table>
 
@@ -90,7 +93,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /><br>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" /><br>WordPress</td>
-    <td align="center"><img src="https://img.favpng.com/25/15/12/logo-apache-http-server-apache-software-foundation-computer-servers-web-server-png-favpng-ebJ1wHvFsydhrpp6V0xFN5NBQ.jpg" width="40" /><br>Apache</td>
+    <!-- <td align="center"><img src="https://img.favpng.com/25/15/12/logo-apache-http-server-apache-software-foundation-computer-servers-web-server-png-favpng-ebJ1wHvFsydhrpp6V0xFN5NBQ.jpg" width="40" /><br>Apache</td> -->
   </tr>
 </table>
 
@@ -101,7 +104,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" /><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /><br>Postman</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>Docker</td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /><br>Docker</td> -->
     <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" />
   <br>Notion
@@ -148,26 +151,26 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-047&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
-<!--START_SECTION:waka-->
-## 🧑🏻‍💻 Developers Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishal-047/wakatime-dashboard/main/stats.svg" />
-</p>
-## ⏳ Commits
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishal-047&utcOffset=5.5&theme=github_dark&v=4" width="480"/>
-</p>
-<!--END_SECTION:waka-->
+<div align="center">
 
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+## 🏅 GitHub Achievements
 <p align="center">
-  <sub>
-    ⏱ X-axis: Hour of day (0–23) &nbsp;•&nbsp;
-    📊 Y-axis: Commit count &nbsp;•&nbsp;
-    🕒 Timezone: IST
-  </sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal-047&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishal-047&theme=tokyonight" />
 </p>
+
 
 ## ✍️ Random Dev Quote
 
