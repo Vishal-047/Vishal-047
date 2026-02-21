@@ -113,10 +113,10 @@
   <img src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-735811696610010utjhevbxcl.png" width="40" />
   <br>Cisco
 </td>
-<td align="center">
+<!-- <td align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />
   <br>Steam
-</td>
+</td> -->
     <td align="center"><img src="https://fabrikbrands.com/wp-content/uploads/Adobe-Logo-History-1a.png" width="40" /><br>Adobe</td>
   </tr>
 </table>
