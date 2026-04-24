@@ -161,6 +161,11 @@
 <img src="https://streak-stats.demolab.com?user=Vishal-047&theme=tokyonight&hide_border=true" />
 
 </div>
+## 📅 Top Commit Days
+
+<!-- START_STATS -->
+Loading...
+<!-- END_STATS -->
 
 ---
 
