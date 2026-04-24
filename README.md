@@ -137,11 +137,20 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-047&theme=tokyo-night&hide_border=true" />
+
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-047&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-047&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-047&layout=compact&theme=tokyonight&hide_border=true"/>
 
