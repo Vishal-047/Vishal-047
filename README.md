@@ -5,7 +5,6 @@
 </p>
 
 - 🚀 Full Stack Developer (MERN Stack)  
-- 🔐 Cybersecurity Enthusiast (Web Security & Networking Basics)  
 - 🧠 Strong in Data Structures & Algorithms (300+ problems solved)  
 - ⚙️ Interested in building **secure & scalable backend systems**  
 - 🌱 Currently learning **System Design & Web Security**  
@@ -13,13 +12,7 @@
 
 ---
 
-## 🔐 Security Focus
 
-- Understanding of **OWASP Top 10** (basics)  
-- Learning **secure authentication & authorization (JWT)**  
-- Exploring **API security & backend protection**  
-
----
 
 
 ## 🌐 Socials:
