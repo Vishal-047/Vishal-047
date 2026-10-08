@@ -9,12 +9,6 @@
 - ⚙️ Interested in building **secure & scalable backend systems**  
 - 🌱 Currently learning **System Design & Web Security**  
 - 📫 Reach me at: **vishalrw007@gmail.com**
-
----
-
-
-
-
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/vishal.7.4">
@@ -37,7 +31,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
   </a>
 </p>
----
 
 ## 🚀 Tech Stack
 
@@ -106,26 +99,103 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Eco Retail Platform
-- Built a full-stack e-commerce application using MERN  
-- Implemented JWT authentication & secure checkout  
-- Designed scalable backend APIs  
+## 01 ── 🛡️ SafeLane
+"Can we know if a PR is actually safe to deploy?"
 
-### 🏥 Medicare AI
-- Developed an AI-powered healthcare assistant  
-- Integrated ML model for symptom analysis  
-- Created REST APIs for real-time interaction  
+An AI-powered pre-deployment risk gate for GitHub Pull Requests.
+SafeLane reads a pull request and combines multiple independent evidence sources before producing a Deployment Confidence Score (0–100).
+```
+        ┌─────────────────┐
+        │    GitHub PR    │
+        └────────┬────────┘
+                 │
+       ┌─────────┼─────────┐
+       ↓         ↓         ↓
+    CHANGE    INCIDENT   TESTS
+  INTELLIGENCE  MEMORY   READINESS
+       │         │         │
+       └─────────┼─────────┘
+                 ↓
+          RELEASE CONTEXT
+                 │
+                 ↓
+       ┌───────────────────┐
+       │ CONFIDENCE SCORE  │
+       │      0 → 100      │
+       └───────────────────┘
+```
+What it does
+- 🔍 Change Intelligence — identifies risky code changes
+- 🧠 Incident Memory — checks historical incident records
+- 🧪 Verification Readiness — evaluates test readiness
+- 📅 Release Context — considers release timing and context
+The modules run concurrently and contribute to a Deployment Confidence Score from 0–100, with the reasoning posted back to the pull request.
+✦ Idea: Passing tests doesn't always mean a change is safe to deploy.
 
-### 🔗 URL Shortener
-- Built a scalable URL shortening service  
-- Implemented analytics tracking  
-- Optimized database queries  
+Stack: Python · FastAPI · GitHub Webhooks · Azure OpenAI · Azure Search · Pytest
+<p>
+  <a href="https://github.com/Vishal-047/safe-lane_demo">
+    <img src="https://img.shields.io/badge/↗%20VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+## 02 ── 🛒 Eco Retail Platform
+"Build the complete shopping experience, not just a UI."
+
+A full-stack e-commerce application built with the MERN stack.
+Highlights
+- 🛍️ Product and shopping experience
+- 🔐 JWT-based authentication
+- ⚙️ Backend REST APIs
+- 📦 Scalable application architecture
+Stack: MongoDB · Express.js · React · Node.js
+<p>
+  <a href="https://github.com/Vishal-047/eco__retail">
+    <img src="https://img.shields.io/badge/↗%20VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+## 03 ── 🏥 Medicare AI
+"Make interacting with medical information simpler."
+
+An AI-assisted healthcare application designed to help users interact with medical information.
+Highlights
+- 🤖 AI-powered symptom analysis
+- 📄 Medical report OCR
+- 🔌 REST APIs for application interaction
+- 🖥️ Built with a modern Next.js stack
+Stack: Next.js · TypeScript · TailwindCSS · MongoDB · Gemini API
+<p>
+  <a href="https://github.com/Vishal-047/Medicare_AI">
+    <img src="https://img.shields.io/badge/↗%20VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+✎ Problem Solving
+"First understand the problem."
+```
+
+        ┌─────────────────────────────┐
+        │                             │
+        │       UNDERSTAND            │
+        │            ↓                │
+        │          BREAK              │
+        │            ↓                │
+        │         OBSERVE             │
+        │            ↓                │
+        │          SOLVE              │
+        │            ↓                │
+        │           TEST              │
+        │            ↓                │
+        │         IMPROVE             │
+        │            ↺                │
+        │                             │
+        └─────────────────────────────┘
+```
 
 ## 🧠 Problem Solving
 
-- Solved **300+ DSA problems**   
+- Solved **350+ DSA problems**   
 - Active on **LeetCode**  
 
 ---
@@ -150,10 +220,28 @@
 
 <img src="https://streak-stats.demolab.com?user=Vishal-047&theme=tokyonight&hide_border=true" />
 
-</div>
 
-## ✍️ Quote
+      ┌─────────────────────────────┐
+      │                             │
+      │     1% better every day     │
+      │                             │
+      │        ──► ──► ──►         │
+      │                             │
+      └─────────────────────────────┘
+      
+      
+✍️ A Little Reminder
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+Ideas → Code → Deploy → Learn → Repeat
+
+Better Code. Safer Products.
+
+✦ ✦ ✦
+
+Thanks for visiting my little corner of GitHub.
 </p>
